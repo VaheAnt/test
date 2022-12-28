@@ -1,1 +1,1 @@
-﻿
+print('grfdvc')
